@@ -1,0 +1,7 @@
+# Ignore STM32 build outputs
+Debug/
+Release/
+*.o
+*.elf
+*.list
+
